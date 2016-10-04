@@ -47,6 +47,7 @@ Secondly I opened a Emotiv ID so I can keep track of the data recorded from diff
 <br>
 
 <iframe width="560" height="500" src="https://www.youtube.com/embed/5dXaojWfuPQ" frameborder="0" allowfullscreen></iframe>
+<br>
 
 
 
