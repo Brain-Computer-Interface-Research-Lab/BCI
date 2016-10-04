@@ -20,7 +20,7 @@ share: true
 img { width: 40%; margin: 0 auto; display: block; }
 </style>
 
-<img src="../img/lab.png" alt="">
+<img src="/img/lab.png" alt="">
 
 
 <h1> Welcome To Brain Computer Interface Research Project (BCI)<h1>
@@ -33,7 +33,7 @@ img { width: 40%; margin: 0 auto; display: block; }
 img { width: 70%; margin: 0 auto; display: block; }
 </style>
 
-<img src="../img/equipments/emo.jpg" alt="Test">
+<img src="/img/equipments/emo.jpg" alt="Test">
 
 
 
@@ -42,7 +42,7 @@ img { width: 70%; margin: 0 auto; display: block; }
 img { width: 30%; margin: 0 auto; display: block; }
 </style>
 
-<img src="../img/equipments/emotiv.png" alt="EMOTIV Insight">
+<img src="/img/equipments/emotiv.png" alt="EMOTIV Insight">
 
 For a better results I will need to get  EMOTIV Epoc+(A hi-resolution 14 channel mobile EEG used for contextualized scientific research grade results.) but since lackness of founds I will have to continue working with Emotiv Insight until I get the Chance to buy the actual equipmnets.
 
@@ -60,12 +60,3 @@ Initialy I started with the ***Left & Right*** commands, but it takes some times
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bB5fpYBwACs" frameborder="0" allowfullscreen></iframe>
-
-
-<h3>Sponsors<h3>
-
-<style>
-img { width: 70%; margin: 0 auto; display: block; }
-</style>
-
-<img src="../assets/img/equipments/sponsor.png" alt="">

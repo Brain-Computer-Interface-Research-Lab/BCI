@@ -93,7 +93,7 @@ img { width: 30%; margin: 0 auto; display: block; }
 img { width: 30%; margin: 0 auto; display: block; }
 </style>
 
-<img src="../img/equipments/8.jpg" alt="">
+<img src="/img/equipments/8.jpg" alt="">
 
 <h3><center>INZXT S340 Mid Tower Case CA-S340W-W1 (White) $82.99  </center></h3>
 
@@ -102,7 +102,7 @@ img { width: 30%; margin: 0 auto; display: block; }
 img { width: 30%; margin: 0 auto; display: block; }
 </style>
 
-<img src="../img/equipments/9.jpg" alt="">
+<img src="/img/equipments/9.jpg" alt="">
 
 <h3><center>EMOTIV Epoc+  $799.00 </center></h3>
 
@@ -111,6 +111,6 @@ img { width: 30%; margin: 0 auto; display: block; }
 img { width: 30%; margin: 0 auto; display: block; }
 </style>
 
-<img src="../img/equipments/10.jpg" alt="">
+<img src="/img/equipments/10.jpg" alt="">
 
 <h3><center>R&D Kit (16-channel) — 32bit, Daisy, & Accessories $ 999.99 </center></h3>
