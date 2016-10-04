@@ -1,7 +1,5 @@
-# _Airspace_ for Jekyll
+# Brain Computer Interface Reseach LAb
 ![screenshot](screenshots/home.png "Description goes here")
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+This Brain Computer Interface Reseach Lab official Website.
 
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
