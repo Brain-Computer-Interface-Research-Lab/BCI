@@ -46,7 +46,7 @@ As a start I went to the Emotiv Webpage and had to download EMOTIV Control Panel
 Secondly I opened a Emotiv ID so I can keep track of the data recorded from different people.Today Played a little bit with the device and the software and tried to learn some mental commands.<br>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5dXaojWfuPQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube.com/embed/5dXaojWfuPQ" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -55,4 +55,4 @@ Initialy I started with the ***Left & Right*** commands, but it takes some times
 <br>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bB5fpYBwACs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="500" src="https://www.youtube.com/embed/bB5fpYBwACs" frameborder="0" allowfullscreen></iframe>
