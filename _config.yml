@@ -20,8 +20,8 @@ subtitle: "A free HTML5 agency template"
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "https://brain-computer-interface-research-lab.github.io/bci" # the base hostname & protocol for your site
-baseurl: "/airspace-jekyll"
+url: "//brain-computer-interface-research-lab.github.io/bci" # the base hostname & protocol for your site
+baseurl: "https://brain-computer-interface-research-lab.github.io/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
