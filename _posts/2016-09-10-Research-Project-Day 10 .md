@@ -16,11 +16,7 @@ like: true
 share: true
 ---
 
-<style>
-img { width: 40%; margin: 0 auto; display: block; }
-</style>
 
-<img src="/img/lab.png" alt="">
 
 
 <h1> Welcome To Brain Computer Interface Research Project (BCI)<h1>
@@ -30,7 +26,7 @@ img { width: 40%; margin: 0 auto; display: block; }
 
 
 <style>
-img { width: 70%; margin: 0 auto; display: block; }
+img { width: 50%; margin: 0 auto; display: block; }
 </style>
 
 <img src="/img/equipments/emo.jpg" alt="Test">
@@ -39,7 +35,7 @@ img { width: 70%; margin: 0 auto; display: block; }
 
 <h5>Day 10 -</h5> <p>Thanks to 7PointGroup Company I was able to get EMOTIV Insight (A prosumer 5 channel mobile EEG used by engaged individuals seeking better understanding of their brains and mental states.)
 <style>
-img { width: 30%; margin: 0 auto; display: block; }
+img { width: 50%; margin: 0 auto; display: block; }
 </style>
 
 <img src="/img/equipments/emotiv.png" alt="EMOTIV Insight">
