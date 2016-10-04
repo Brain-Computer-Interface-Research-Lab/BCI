@@ -20,7 +20,7 @@ share: true
 img { width: 40%; margin: 0 auto; display: block; }
 </style>
 
-<img src="../assets/img/lab.png" alt="">
+<img src="../img/lab.png" alt="">
 
 
 <h1> Welcome To Brain Computer Interface Research Project (BCI)<h1>
@@ -33,7 +33,7 @@ img { width: 40%; margin: 0 auto; display: block; }
 img { width: 70%; margin: 0 auto; display: block; }
 </style>
 
-<img src="../assets/img/equipments/emo.jpg" alt="Test">
+<img src="../img/equipments/emo.jpg" alt="Test">
 
 
 
@@ -42,7 +42,7 @@ img { width: 70%; margin: 0 auto; display: block; }
 img { width: 30%; margin: 0 auto; display: block; }
 </style>
 
-<img src="../assets/img/equipments/emotiv.png" alt="EMOTIV Insight">
+<img src="../img/equipments/emotiv.png" alt="EMOTIV Insight">
 
 For a better results I will need to get  EMOTIV Epoc+(A hi-resolution 14 channel mobile EEG used for contextualized scientific research grade results.) but since lackness of founds I will have to continue working with Emotiv Insight until I get the Chance to buy the actual equipmnets.
 
@@ -69,8 +69,3 @@ img { width: 70%; margin: 0 auto; display: block; }
 </style>
 
 <img src="../assets/img/equipments/sponsor.png" alt="">
-
-
-***You know something that I should know about the topic DO NOT HESITATE to let me know ;)***
-<h2>Donate To Support My Research On Brain Computer Interface</h2>
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="58" height="38" title="Click Here to donate!" type="application/x-shockwave-flash"><param name="movie" value="//funds.gofundme.com/Widgetflex.swf" /><param name="quality" value="high" /><param name="flashvars" value="page=Brain-computer-int&template=2" /><param name="wmode" value="transparent" /><embed allowScriptAccess="always" src="//funds.gofundme.com/Widgetflex.swf" quality="high" flashVars="page=Brain-computer-int&template=2" type="application/x-shockwave-flash" wmode="transparent" width="50" height="38"></embed></object>
